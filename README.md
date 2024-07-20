@@ -147,6 +147,3 @@ Se possível:<br>
 
 
 
-------------
-
-Disponibilizado com ♥ por [cami-la](https:
